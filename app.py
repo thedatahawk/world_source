@@ -59,7 +59,7 @@ html.Div([
         ),
         "."
     ]),
-    html.P("This tool displays three estimates of U.S. production exposure in goods and services:"),
+    html.P("This tool displays three estimates of U.S. production exposure in manufacturing:"),
     html.Ul([
         html.Li("Face Value"),
         html.Li("Look Through"),

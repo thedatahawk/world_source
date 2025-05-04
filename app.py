@@ -54,7 +54,7 @@ html.Div([
         "For U.S. exposure by country, see ",
         html.A(
             "U.S. Source",
-            href="https://us_source.onrender.com/",
+            href="https://us-source.onrender.com",
             target="_blank", rel="noopener noreferrer"
         ),
         "."
